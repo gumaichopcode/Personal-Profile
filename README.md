@@ -20,11 +20,11 @@
  
 | # | ชื่องาน | รายละเอียด |
 |---|---------|------------|
-| 01 | Essay Link | — |
-| 02 | Topology | — |
-| 03 | Not_Simple | — |
-| 04 | TCP-UDP | — |
-| 05 | New Network | — |
+| 01 | Essay Link | [View](./Assignment/Assignment1.pdf) |
+| 02 | Topology | [View](./Assignment/Assignment2.pdf) |
+| 03 | Not_Simple | [View](./Assignment/Assignment3.pdf) |
+| 04 | TCP-UDP | [View](./Assignment/Assignment4.pdf) |
+| 05 | New Network | [View](.New Network/New Network.pdf) |
 
 ---
 
