@@ -32,12 +32,12 @@
  
 | # | ชื่องาน | รายละเอียด |
 |---|---------|------------|
-| Lab 1 | Lab Report 1 | — |
-| Lab 2 | Lab Report 2 | — |
-| Lab 3 | Lab Report 3 | — |
-| Lab 4 | Lab Report 4 | — |
-| Lab 5 | Lab Report 5 | — |
-| Lab 6 | Lab Report 6 | — |
+| 01 | Lab Report 1 | — |
+| 02 | Lab Report 2 | — |
+| 03 | Lab Report 3 | — |
+| 04 | Lab Report 4 | — |
+| 05 | Lab Report 5 | — |
+| 06 | Lab Report 6 | — |
 
 ---
 
@@ -46,7 +46,6 @@
 | ชื่อโปรเจ็ค | รายละเอียด |
 |------------|------------|
 |Infrastructure-Free-Emergency-Communication-Network|[Link Github](https://github.com/lloganlrithm/Infrastructure-Free-Emergency-Communication-Network)|
-| — | — |
 
 ---
 
