@@ -52,8 +52,8 @@
 ## 🏅 Certificate
 
 ### CCNA: Introduction to Networks
-![CCNA Certificate](./Certificate/certificate_ccna.png)
+![CCNA Certificate](./Certificates/certificate_ccna.png)
 
 ### Getting Started with Cisco Packet Tracer
-![Packet Tracer Certificate](./Certificate/certificate_packet_tracer.png)
+![Packet Tracer Certificate](./Certificates/certificate_packet_tracer.png)
 
