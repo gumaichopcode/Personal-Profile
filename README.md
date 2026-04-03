@@ -32,12 +32,12 @@
  
 | # | ชื่องาน | รายละเอียด |
 |---|---------|------------|
-| 01 | Lab Report 1 | — |
-| 02 | Lab Report 2 | — |
-| 03 | Lab Report 3 | — |
-| 04 | Lab Report 4 | — |
-| 05 | Lab Report 5 | — |
-| 06 | Lab Report 6 | — |
+| 01 | Lab Report 1 | [View](./Lab/Lab1) |
+| 02 | Lab Report 2 | [View](./Lab/Lab2) |
+| 03 | Lab Report 3 | [View](./Lab/Lab3/Lab3.pdf) |
+| 04 | Lab Report 4 | [View](./Lab/Lab4/Lab4.pdf) |
+| 05 | Lab Report 5 | [View](./Lab/Lab5) |
+| 06 | Lab Report 6 | [View](./Lab/Lab6) |
 
 ---
 
